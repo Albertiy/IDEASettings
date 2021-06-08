@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="YUANYUE963@outlook.com" />
-    <option name="AUTH_TYPE" value="BASIC" />
-    <option name="CONNECTION_TIMEOUT" value="50000" />
-  </component>
-</application>
